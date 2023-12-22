@@ -160,6 +160,8 @@ Menu
   margin-bottom: 4rem;
   display: flex;
   justify-content: center;
+  padding-left: 4rem;
+  padding-right: 4rem;
 }
 .filter-btn {
   background: transparent;

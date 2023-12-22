@@ -21,7 +21,7 @@ const menu = [
     category: 'pork',
     price:'blowjob',
     img: './images/soyporkbelly.jpg',
-    desc: `pork belly marinated in soy, brown sugar, garlic, onion, sesame oil and honey`,
+    desc: `pork belly marinated in soy, brown sugar, garlic, onion, sesame oil and honey `,
   },
   {
     id: 4,
@@ -43,9 +43,9 @@ const menu = [
     id: 6,
     title: 'shrimp',
     category: 'seafood',
-    price: 18.99,
+    price: 'blowjob',
     img: './images/shrimp.jpg',
-    desc: `Fresh caught pacific shrimp from Savannah, Georgia`,
+    desc: `Fresh caught pacific shrimp from Savannah, Georgia `,
   },
   {
     id: 7,
@@ -53,7 +53,15 @@ const menu = [
     category: 'spread',
     price: 'free',
     img: './images/kimchi.jpg',
-    desc: `marinated napa cabbage with raddish, carrot, onion`,
+    desc: `marinated napa cabbage with raddish, carrot, onion `,
+  },
+  {
+    id: 8,
+    title: 'sauces',
+    category: 'spread',
+    price: 'free',
+    img: './images/sauces.jpg',
+    desc: `yum yum, ssamjang, sesame oil, cho ganjang `,
   },
 ];
 export default menu;
